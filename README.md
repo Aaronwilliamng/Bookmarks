@@ -41,5 +41,5 @@
 
 ### Author
 
-👤 **Aaron Ng** @Aaronwilliamng](https://github.com/Aaronwilliamng)
+👤 **Aaron Ng** [@Aaronwilliamng](https://github.com/Aaronwilliamng)
 
